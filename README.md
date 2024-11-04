@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @varungarg001
 - 👀 I’m interested in work as a web developer.
 - 🌱 I’m currently learning frontend ...
-- 💞️ I’m looking to collaborate on instagram..
 - 📫 How to reach me via email my email id is
 - vk7048233@gmail.com
 
